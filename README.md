@@ -1,3 +1,3 @@
-# rsschool-cv1
+# rsschool-cv
 https://fluffyjoker.github.io/rsschool-cv/
 
