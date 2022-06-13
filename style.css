@@ -1,1 +1,115 @@
+.navig {
+    margin: auto; /* Шапка с ссылками*/
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 950px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    
+}
+    
+.menu123456{
+    align-items: center; 
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
 
+.header {/* Там где фото */
+    background-color: rgb(160, 138, 248);
+    padding: .5rem;
+}
+
+.header p {
+    font: small-caps bold 30px sans-serif; /* Тест имя */
+    text-align: center;
+}
+
+a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
+
+#mycontacts h1 {
+    text-align: center; /* Заголовок Mycontacts */
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(160, 138, 248);
+    color: white;
+}
+
+#mycontacts ul { 
+    text-align: left; /* Пункты контактов */
+    font-size: 35px;
+    color: blue;
+}
+
+#skills h2 {
+    text-align: center; /* Заголовок Skills */
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(160, 138, 248);
+    color: white;
+}
+
+#skills ul {
+    color: blueviolet; /* Пункты скиллс */
+    font-size: 35px;
+}
+
+#aboutme h2 {
+    text-align: center; /* Заголовок About me */
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(160, 138, 248);
+    color: white;
+}
+
+#aboutme p {
+    font-size: 35px; /* Текст про меня */
+    color: rgb(160, 138, 248);
+
+}
+
+#codeexample h2 { /* Заголовок Code example */
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(160, 138, 248);
+    color:  white;
+}
+
+.codeexample {
+    background-color: black;
+    color: white;
+    margin-right: 1050px;
+
+}
+
+#languages h2 { /* Заголовок Languages */
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(160, 138, 248);
+    color:  white;
+}
+
+#languages ul {
+    font-size: 35px; /* Мои языки которые знаю */
+    color: rgb(160, 138, 248);
+
+}
+
+#education h2 { /* Заголовок Education */
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(160, 138, 248);
+    color:  white;
+}
+
+#education p {
+    font-size: 35px; /* Моё образование */
+    color: rgb(160, 138, 248);
+    line-height: 14px;
+}
